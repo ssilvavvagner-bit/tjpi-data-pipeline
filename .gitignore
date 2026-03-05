@@ -1,0 +1,20 @@
+# ambiente virtual
+.venv/
+
+# variáveis de ambiente
+.env
+
+# arquivos de dados
+data/raw/
+data/processed/
+
+# cache python
+__pycache__/
+*.pyc
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# arquivos grandes
+*.csv
