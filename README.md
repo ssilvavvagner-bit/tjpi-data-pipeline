@@ -255,6 +255,6 @@ Controle de duplicidade:
 
 # 👨‍💻 Autor
 
-**Vagner Silva da Silva**
-Desenvolvedor de Software | Engenharia de Dados (em formação)
+**Vagner Silva da Silva**  
+Desenvolvedor de Software | Engenharia de Dados (em formação)  
 Curso: Análise e Desenvolvimento de Sistemas ( em formação)
